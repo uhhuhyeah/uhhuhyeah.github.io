@@ -16,5 +16,5 @@ Oh, and how much does a hurricane weigh? An average North American hurricane con
 
 Notes:
 
-1. <a href="http://en.wikipedia.org/wiki/Cloud">http://en.wikipedia.org/wiki/Cloud</a>
+1. <a href="http://en.wikipedia.org/wiki/Cloud">wikipedia.org/wiki/Cloud</a>
 1. Header image courtesy of <a href="https://unsplash.com/liane">Liane Metzler / Unsplash</a>
