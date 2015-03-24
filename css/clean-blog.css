@@ -395,3 +395,12 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+
+.stitchfix-include {
+  padding: 0 30px;
+  border: 1px solid #ddd;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.stitchfix-include:hover {
+    border-color: #0085A1;
+}
