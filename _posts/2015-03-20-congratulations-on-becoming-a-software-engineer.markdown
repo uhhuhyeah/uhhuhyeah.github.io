@@ -61,5 +61,3 @@ Ok ok fine! Here's your *“7 Shocking Things That'll Make You A Rockstar Softwa
 1. Have strong opinions, weakly held.
 
 
-{% include stitchfix_comment.html %}
-
