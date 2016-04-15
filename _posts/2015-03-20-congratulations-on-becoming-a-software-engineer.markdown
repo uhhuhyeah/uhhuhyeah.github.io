@@ -44,7 +44,7 @@ I'm sharing all this because I'm excited for you. To me, this is the most reward
 
 I've been doing professional software development for a handful of years now and I was lucky to come to these realizations early on. I **still** have so much to learn but I have been very lucky to work with some really top notch engineers who were also great and patient teachers. I've always tried to join teams that are made up of better engineers than me. I think that this gets more important with seniority, not less. Through a little luck, and knowing what to ask, I've **continued** to find great and patient teachers.
 
-### * cough * [Stitch Fix is hiring](http://technology.stitchfix.com/jobs/index.html) * cough *
+### * cough * [Stitch Fix is hiring](http://multithreaded.stitchfix.com/careers/) * cough *
 
 Most of all, I'm telling you this so that your eyes are opened to the potential in front of you. In life, we generally **don't know what we don't know**. Hopefully now you have some idea of the road ahead.
 
