@@ -15,7 +15,7 @@ This is a story I will one day tell my grandchildren. But as I have no grandchil
 
 The year was 2016. The first non-Terran President was something few of us had dreamed of, cars were still mostly driven by humans, email was still a thing (though it was on our wrists by now) and software was still being written. Yep! By fallible humans working with clicky keyboards and screens on desks.
 
-At Stitch Fix I worked with the Merchandise (meaning clothing) team supporting the types of things a Merchandise team did at a fashion company, like placing Purchase Orders with Vendors. I was asked by one of the Buying Directors, Amanda, to give her insight into Purchase Order changes. "I want to know how many times a Purchase Order was revised."
+At [Stitch Fix](http://multithreaded.stitchfix.com/) I worked with the Merchandise (meaning clothing) team supporting the types of things a Merchandise team did at a fashion company, like placing Purchase Orders with Vendors. I was asked by one of the Buying Directors, Amanda, to give her insight into Purchase Order changes. "I want to know how many times a Purchase Order was revised."
 
 If I had built what she had asked for, I would have given her something like a history view so that she could pick any Purchase Order and see a history of the revisions. When the revision was made, who made it, what the nature of the revision was et cetera. I understood a lot about how buying works at Stitch Fix. I could understand why they would want to have this. I figured I knew how to represent this "history" in a compelling way that would aid understanding. I was excited to get started.
 
