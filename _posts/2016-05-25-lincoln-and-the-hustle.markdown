@@ -10,7 +10,6 @@ location: "San Francisco, CA"
 
 I came across this Abraham Lincoln quote today:
  
-
 > "Things may come to those who wait, but only the things left by those who hustle."
  
 
