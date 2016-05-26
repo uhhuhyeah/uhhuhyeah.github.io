@@ -10,8 +10,9 @@ location: "San Francisco, CA"
 
 I came across this Abraham Lincoln quote today:
  
+
 > "Things may come to those who wait, but only the things left by those who hustle."
- 
+
 
 It sparked all sorts of notions in me. I love that it sounds like it could have been said today. If I didn't attribute it, you might wonder if it was from Elon Musk. Or perhaps Steve Jobs. 
  
