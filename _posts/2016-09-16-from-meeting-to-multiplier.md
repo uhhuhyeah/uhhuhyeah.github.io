@@ -1,12 +1,12 @@
 ---
 title: "1:1s | From Meeting to Multiplier"
-date: 2016-08-16 09:00:00 -7000
+date: 2016-09-16 09:00:00 -7000
 layout: post
 author: David A McClain
 author_url: 'http://linkedin.com/in/davidamcclain'
 published: true
 location: "San Francisco, CA"
-original_url: 'http://multithreaded.stitchfix.com/blog/2016/02/12/do-you-know-what-problem-you-are-trying-to-solve'
+original_url: 'http://multithreaded.stitchfix.com/blog/2016/09/16/from-meeting-to-multiplier/'
 ---
 
 {% include stitchfix.html %}
